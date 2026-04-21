@@ -1,0 +1,11 @@
+# build files
+*.o
+pes
+test_tree
+test_objects
+
+# repo data
+.pes/
+
+# mac junk
+.DS_Store
